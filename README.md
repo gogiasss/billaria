@@ -1,9 +1,9 @@
 ### Privacy Policy (English)
 
-**Last updated: [Date]**
+**Last updated: [2025-12-01]**
 
 **1. Introduction**
-Developer **Ruslan Valiev** ("we", "us", or "our") built the **Billaria** app as an [Ad-supported/Free/Freemium/Commercial] app. This SERVICE is provided at no cost (or as is) and is intended for use as is.
+Developer **Ruslan Valiev** ("we", "us", or "our") built the **Billaria** app as an Free app. This SERVICE is provided at no cost (or as is) and is intended for use as is.
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 **2. Information Collection and Use**
@@ -30,14 +30,14 @@ You can delete specific subscription or payment records at any time through the 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
 
 **7. Contact Us**
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **[Your Email]**.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **rvaliev.dev@gmail.com**.
 
 ### Политика конфиденциальности (Русский)
 
-**Последнее обновление: [Дата]**
+**Последнее обновление: [01-12-2025]**
 
 **1. Введение**
-Разработчик **Ruslan Valiev** («мы», «наш» или «нас») создал приложение **Billaria** как приложение с поддержкой рекламы/бесплатное/коммерческое (выберите нужное). Данный СЕРВИС предоставляется на условиях «как есть».
+Разработчик **Ruslan Valiev** («мы», «наш» или «нас») создал приложение **Billaria** как бесплатное приложение. Данный СЕРВИС предоставляется на условиях «как есть».
 Эта страница используется для информирования посетителей о нашей политике в отношении сбора, использования и раскрытия личной информации.
 
 **2. Сбор и использование информации**
@@ -64,4 +64,4 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 Мы можем время от времени обновлять нашу Политику конфиденциальности. Рекомендуется периодически просматривать эту страницу на предмет изменений.
 
 **7. Связаться с нами**
-Если у вас есть вопросы или предложения относительно нашей Политики конфиденциальности, не стесняйтесь обращаться к нам по адресу: **[Ваш Email]**.
+Если у вас есть вопросы или предложения относительно нашей Политики конфиденциальности, не стесняйтесь обращаться к нам по адресу: **rvaliev.dev@gmail.com**.
