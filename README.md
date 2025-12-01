@@ -16,7 +16,7 @@ The app may request the following permissions:
 
 **3. Third-Party Services**
 The app does use third-party services that may collect information used to identify you or provide functionality:
-* **ExchangeRate-API:** Used for currency conversion features. Please refer to their privacy policy for more details.
+* **ExchangeRate-API:** (https://www.exchangerate-api.com/terms) Used for currency conversion features. Please refer to their privacy policy for more details.
 
 **4. Data Storage and Security**
 * **Local Storage:** Your subscription and payment data are stored locally on your device.
@@ -50,7 +50,7 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 
 **3. Сторонние сервисы**
 Приложение использует сторонние сервисы, которые могут собирать информацию, используемую для вашей идентификации или обеспечения функциональности:
-* **ExchangeRate-API:** Мы используем этот сервис для конвертации валют и получения актуальных курсов. Пожалуйста, ознакомьтесь с политикой конфиденциальности ExchangeRate-API.
+* **ExchangeRate-API:** (https://www.exchangerate-api.com/terms) Мы используем этот сервис для конвертации валют и получения актуальных курсов. Пожалуйста, ознакомьтесь с политикой конфиденциальности ExchangeRate-API.
 
 **4. Данные и безопасность**
 * **Хранение:** Ваши данные о подписках и платежах хранятся в защищенной области памяти вашего устройства.
