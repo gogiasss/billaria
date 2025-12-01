@@ -1,6 +1,6 @@
 ### Privacy Policy (English)
 
-**Last updated: [2025-12-01]**
+**Last updated: 2025-12-01**
 
 **1. Introduction**
 Developer **Ruslan Valiev** ("we", "us", or "our") built the **Billaria** app as an Free app. This SERVICE is provided at no cost (or as is) and is intended for use as is.
